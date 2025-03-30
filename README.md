@@ -1,3 +1,7 @@
+# Deprecated
+
+The upstream repo has been deprecated in favor of [AvaloniaUI/AvaloniaVSCode](https://github.com/AvaloniaUI/AvaloniaVSCode)
+
 # view-avalonia-preview-vscode
 
 Integration of Avalonia Preview into Visual Studio Code
